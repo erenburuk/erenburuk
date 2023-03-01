@@ -5,9 +5,9 @@
 
 - 📫 How to reach me [erenburukk@gmail.com](erenburukk@gmail.com)
 
-- 💬 My LinkedIn: [linkedin.com/in/erenburuk](linkedin.com/in/erenburuk)
+- 💼 My LinkedIn: [linkedin.com/in/erenburuk](linkedin.com/in/erenburuk)
 
-- ✅ My CodePen: [codepen.io/erenburuk](codepen.io/erenburuk)
+- 💫 My CodePen: [codepen.io/erenburuk](codepen.io/erenburuk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
