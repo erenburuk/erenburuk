@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">I am a Computer Engineering Student</h3>
+<h1 align="left">Hi 👋, I'm Eren</h1>
+<h3 align="left">I am a Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 📫 How to reach me [erenburukk@gmail.com](erenburukk@gmail.com)
 
-- 💬 My Linkedin: **linkedin.com/in/erenburuk**
+- 💬 My LinkedIn: [linkedin.com/in/erenburuk](linkedin.com/in/erenburuk)
 
-- ✅ My CodePen **codepen.io/erenburuk**
+- ✅ My CodePen: [codepen.io/erenburuk](codepen.io/erenburuk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
